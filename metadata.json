@@ -1,0 +1,6 @@
+{
+  "name": "AurasenseCanvas",
+  "description": "A node-based workflow canvas for creating storyboards, characters, and AI-generated content workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
